@@ -1,16 +1,17 @@
-# Codebuilder [BETA]
-Automates creating a Codebusters test for Science Olympiad practice. Outputs a json file that can be imported directly to Toebes.
+# Cobusquiz
 
-## **To join the official Codebuilder Discord server, click [here](https://discord.gg/CkWccvVZW9).**
+**This is currently under development**
+
+**This is NOT a discord bot**
+
+
+Complete with "GUI"!
 
 This program pulls quotes from a database of 40000+ quotes. All ciphers for use in the 2020-2021 season, with the exception of keyed monoalphabetic substitution ciphers (K1/K2), have been implemented.
 
 **Disclaimer: This program is only for practice. If you are an event supervisor, tournament director, or any test writer, you may not use Codebuilder to generate tests for use in any sanctioned competition, including invitationals, regionals, or state competitions. In addition, you may not use Codebuilder for any test exchanges, such as SSSS, Captains Test Exchange, or anywhere where the test will be publicly released without my permission.**
 
 If you would like to request new features or report any bugs, feel free to create an issue; however, chances are I won't get to it.
-
-### Codebuilder Discord Bot: ###
-**Invite Link:** https://discord.com/api/oauth2/authorize?client_id=787535889135828994&permissions=125952&scope=bot
 
 ### Commands: ###
 
